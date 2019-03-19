@@ -1,3 +1,7 @@
 [submodule "cmdchess"]
 	path = cmdchess
 	url = git@github.com:JDongian/cmdchess.git
+[submodule "dotviewer"]
+	path = dotviewer
+	url = git@github.com:JDongian/dotviewer.git
+	branch = master
