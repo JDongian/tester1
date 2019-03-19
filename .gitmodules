@@ -1,0 +1,3 @@
+[submodule "cmdchess"]
+	path = cmdchess
+	url = git@github.com:JDongian/cmdchess.git
